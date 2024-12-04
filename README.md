@@ -10,5 +10,5 @@ Dec 2nd - Python
 - Problem 2 Solution: 553
 
 Dec 3rd - C++
-- Problem 1 Solution: 
-- Problem 2 Solution: 
+- Problem 1 Solution: 173529487
+- Problem 2 Solution: 99532691
