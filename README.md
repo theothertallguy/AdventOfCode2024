@@ -12,3 +12,7 @@ Dec 2nd - Python
 Dec 3rd - C++
 - Problem 1 Solution: 173529487
 - Problem 2 Solution: 99532691
+
+Dec 4th - Java
+- Problem 1 Solution: 
+- Problem 2 Solution:
