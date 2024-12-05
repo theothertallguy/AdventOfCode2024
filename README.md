@@ -14,5 +14,7 @@ Dec 3rd - C++
 - Problem 2 Solution: 99532691
 
 Dec 4th - Java
-- Problem 1 Solution: 
-- Problem 2 Solution:
+- Problem 1 Solution: 2504
+- Problem 2 Solution: 1923
+
+Dec 5th - Typescript
