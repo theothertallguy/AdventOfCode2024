@@ -18,5 +18,9 @@ Dec 4th - Java
 - Problem 2 Solution: 1923
 
 Dec 5th - Typescript
-- Problem 1 Solution:  5713
-- Problem 2 Solution:  5180
+- Problem 1 Solution: 5713
+- Problem 2 Solution: 5180
+
+Dec 6th - C#
+- Problem 1 Solution: 
+- Problem 2 Solution: 
